@@ -1,0 +1,22 @@
+.datos-personales{
+    display: flex;
+}
+.foto{
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+    border: 4px solid rgb(136, 16, 16);
+    margin-right: 10px;
+    margin-left: 350px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+body{
+    background: black;
+}
+h1{
+    color: aqua;
+}
+h3, p, ul, ol, li, label{
+    color: white;
+}
